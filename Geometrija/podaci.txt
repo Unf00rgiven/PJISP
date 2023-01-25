@@ -1,0 +1,7 @@
+3.1 4.9 valjak
+7.2 5.4 kupa
+9.3 1.7 valjak
+4.4 6.9 kupa 
+3.9 4.0 valjal
+5.0 1.9 valjak
+2.2 8.6 kupa

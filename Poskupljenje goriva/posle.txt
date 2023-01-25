@@ -1,0 +1,9 @@
+ 76.62 10.56 NI gas
+ 77.52 10.43 BG gas
+ 79.22 10.18 NS gas
+162.52  4.72 NS benzin
+162.62  4.71 NI benzin
+162.82  4.71 BG benzin
+172.47  4.43 NS dizel
+172.52  4.43 NI dizel
+172.72  4.43 BG dizel

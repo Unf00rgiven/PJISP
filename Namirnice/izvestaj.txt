@@ -1,0 +1,19 @@
+426.000000 Sipurak       voce
+200.000000 Ribizla       voce
+190.000000 CrvenaPaprika povrce
+90.000000 Brokoli       povrce
+89.000000 Kivi          voce
+60.000000 Jagoda        voce
+50.000000 Pomorandza    voce
+40.000000 Limun         voce
+36.000000 TelecaJetra   meso
+31.000000 BeliLuk       povrce
+30.000000 Spanac        povrce
+29.000000 Grejpfrut     voce
+26.000000 Bakalak       meso
+20.000000 Krompir       povrce
+13.000000 PilecaJetra   meso
+10.000000 Paradajz      povrce
+9.000000 Ananas        voce
+
+ Namirnica sa najvise vitamina C je 426.000000
